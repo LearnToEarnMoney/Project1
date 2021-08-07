@@ -1,3 +1,4 @@
+/*this is to show that a file is updateable in github*/
 import java.util.Scanner;
 
  public class calculator
